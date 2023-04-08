@@ -1,4 +1,4 @@
-# Langchain Tutorials
+# Langchain Tutorials 🔗
 
 ### Welcome to the LangChain Tutorials repository by Blessing Adesiji!
 
@@ -10,7 +10,9 @@ Click [here](https://www.youtube.com/channel/UC3UctK8I4nfyRNQXq1xDqYg) for the v
 
 ---
 
-## My Story
+## My Story  
+
+
 I have created a number of projects with LangChain, and I find the framework amazing. So, I am doing this to contribute to the framework by helping others learn how to build with this amazing framework.
 
 To appreciate this work, give this repo a star, and subscribe to the YouTube channel for video contents. 
